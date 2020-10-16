@@ -16,13 +16,10 @@ Web×IoT メイカーズチャレンジのビデオ会議用バーチャル背�
 
 ## Zoom の設定方法
 
-1. 上にある画像の中から好きなものを右クリックし、「名前を付けて画像を保存」を選択します。
-  <img src="instructions/chrome-save.png" alt="" width="350">
+1. 上にある画像の中から好きなものを右クリックし、「名前を付けて画像を保存」を選択します。<br><img src="instructions/chrome-save.png" alt="" width="350">
 2. デスクトップなど分かりやすい場所に画像を保存します。
 3. Zoom のミーティング画面を開きます。
-4. 画面左下「ビデオの開始」ボタンの横にある「^」をクリックし、「バーチャル背景を選択」を選択します。
-  <img src="instructions/zoom-meeting.png" alt="" width="420">
-5. 設定画面が表示されたら、右端にある「+」ボタンをクリックし、「画像を追加」を選択します。
-  <img src="instructions/zoom-settings.png" alt="" width="845">
+4. 画面左下「ビデオの開始」ボタンの横にある「^」をクリックし、「バーチャル背景を選択」を選択します。<br><img src="instructions/zoom-meeting.png" alt="" width="420">
+5. 設定画面が表示されたら、右端にある「+」ボタンをクリックし、「画像を追加」を選択します。<br><img src="instructions/zoom-settings.png" alt="" width="845">
 6. 先ほど保存した画像を選択します。
 7. 設定画面を閉じてミーティングに戻ります。
