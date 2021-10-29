@@ -2,6 +2,9 @@
 
 Web×IoT メイカーズチャレンジのビデオ会議用バーチャル背景画像です。設定方法はこのページの下をご覧ください。
 
+![background-01](backgrounds/background-12.jpg)
+![background-01](backgrounds/background-13.jpg)
+![background-01](backgrounds/background-14.jpg)
 ![background-01](backgrounds/background-01.jpg)
 ![background-02](backgrounds/background-02.jpg)
 ![background-03](backgrounds/background-03.jpg)
